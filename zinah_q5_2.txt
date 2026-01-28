@@ -1,3 +1,3 @@
 Q5 file from Zinah - copy2
-conflict line: something else to show difference from copy2 (edited for Q6)
+conflict line: resolved & final edit from copy2 (edited for step Q6)
 
