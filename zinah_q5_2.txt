@@ -1,1 +1,2 @@
 Q5 file from Zinah - copy2
+conflict line: from cop1 (edited for step Q6)
